@@ -1,2 +1,2 @@
-# basic_scraper
-A basic crawler made with bs4 in python that gives you an email when a certain product drops value in amazon
+#Price Drop Alert
+This is a simple program with user input options(cmd) to get an automatic email in your specified email when a product drops its price on amazon
